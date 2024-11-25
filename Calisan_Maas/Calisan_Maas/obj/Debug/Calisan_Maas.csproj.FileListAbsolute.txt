@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\bin\Debug\Calisan_Maas.exe.config
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\bin\Debug\Calisan_Maas.exe
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\bin\Debug\Calisan_Maas.pdb
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\obj\Debug\Calisan_Maas.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\obj\Debug\Calisan_Maas.exe
+C:\Users\Beşir Can\source\repos\Calisan_Maas\Calisan_Maas\obj\Debug\Calisan_Maas.pdb

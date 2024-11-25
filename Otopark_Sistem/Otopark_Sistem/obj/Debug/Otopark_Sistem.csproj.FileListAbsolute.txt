@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\bin\Debug\Otopark_Sistem.exe.config
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\bin\Debug\Otopark_Sistem.exe
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\bin\Debug\Otopark_Sistem.pdb
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\obj\Debug\Otopark_Sistem.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\obj\Debug\Otopark_Sistem.exe
+C:\Users\Beşir Can\source\repos\Otopark_Sistem\Otopark_Sistem\obj\Debug\Otopark_Sistem.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.exe.config
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.exe
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.pdb
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.exe
+C:\Users\Beşir Can\source\repos\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.pdb

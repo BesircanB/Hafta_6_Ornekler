@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\bin\Debug\Zaman_Islem.exe.config
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\bin\Debug\Zaman_Islem.exe
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\bin\Debug\Zaman_Islem.pdb
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\obj\Debug\Zaman_Islem.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\obj\Debug\Zaman_Islem.exe
+C:\Users\Beşir Can\source\repos\Zaman_Islem\Zaman_Islem\obj\Debug\Zaman_Islem.pdb

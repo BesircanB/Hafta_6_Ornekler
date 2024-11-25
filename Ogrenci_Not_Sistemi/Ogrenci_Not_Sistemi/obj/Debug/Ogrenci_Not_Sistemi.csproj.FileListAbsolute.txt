@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\bin\Debug\Ogrenci_Not_Sistemi.exe.config
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\bin\Debug\Ogrenci_Not_Sistemi.exe
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\bin\Debug\Ogrenci_Not_Sistemi.pdb
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\obj\Debug\Ogrenci_Not_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\obj\Debug\Ogrenci_Not_Sistemi.exe
+C:\Users\Beşir Can\source\repos\Ogrenci_Not_Sistemi\Ogrenci_Not_Sistemi\obj\Debug\Ogrenci_Not_Sistemi.pdb

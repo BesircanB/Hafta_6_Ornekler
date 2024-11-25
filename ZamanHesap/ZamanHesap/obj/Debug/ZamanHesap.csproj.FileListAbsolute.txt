@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\bin\Debug\ZamanHesap.exe.config
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\bin\Debug\ZamanHesap.exe
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\bin\Debug\ZamanHesap.pdb
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\obj\Debug\ZamanHesap.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\obj\Debug\ZamanHesap.exe
+C:\Users\Beşir Can\source\repos\ZamanHesap\ZamanHesap\obj\Debug\ZamanHesap.pdb

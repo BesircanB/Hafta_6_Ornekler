@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\bin\Debug\Satranc_Tahtasi.exe.config
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\bin\Debug\Satranc_Tahtasi.exe
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\bin\Debug\Satranc_Tahtasi.pdb
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\obj\Debug\Satranc_Tahtasi.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\obj\Debug\Satranc_Tahtasi.exe
+C:\Users\Beşir Can\source\repos\Satranc_Tahtasi\Satranc_Tahtasi\obj\Debug\Satranc_Tahtasi.pdb

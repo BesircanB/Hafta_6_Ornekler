@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\bin\Debug\İslemSinifi.exe.config
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\bin\Debug\İslemSinifi.exe
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\bin\Debug\İslemSinifi.pdb
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\obj\Debug\İslemSinifi.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\obj\Debug\İslemSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\obj\Debug\İslemSinifi.exe
+C:\Users\Beşir Can\source\repos\İslemSinifi\İslemSinifi\obj\Debug\İslemSinifi.pdb

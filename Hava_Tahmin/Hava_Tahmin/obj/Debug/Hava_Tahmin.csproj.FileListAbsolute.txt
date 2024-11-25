@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\obj\Debug\Hava_Tahmin.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\bin\Debug\Hava_Tahmin.exe.config
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\bin\Debug\Hava_Tahmin.exe
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\bin\Debug\Hava_Tahmin.pdb
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\obj\Debug\Hava_Tahmin.exe
+C:\Users\Beşir Can\source\repos\Hava_Tahmin\Hava_Tahmin\obj\Debug\Hava_Tahmin.pdb

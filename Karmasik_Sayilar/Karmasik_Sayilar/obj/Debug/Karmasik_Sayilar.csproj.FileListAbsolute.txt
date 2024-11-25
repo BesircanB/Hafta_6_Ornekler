@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\bin\Debug\Karmasik_Sayilar.exe.config
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\bin\Debug\Karmasik_Sayilar.exe
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\bin\Debug\Karmasik_Sayilar.pdb
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\obj\Debug\Karmasik_Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\obj\Debug\Karmasik_Sayilar.exe
+C:\Users\Beşir Can\source\repos\Karmasik_Sayilar\Karmasik_Sayilar\obj\Debug\Karmasik_Sayilar.pdb

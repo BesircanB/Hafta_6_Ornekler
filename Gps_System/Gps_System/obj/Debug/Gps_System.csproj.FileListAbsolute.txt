@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\bin\Debug\Gps_System.exe.config
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\bin\Debug\Gps_System.exe
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\bin\Debug\Gps_System.pdb
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\obj\Debug\Gps_System.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\obj\Debug\Gps_System.exe
+C:\Users\Beşir Can\source\repos\Gps_System\Gps_System\obj\Debug\Gps_System.pdb

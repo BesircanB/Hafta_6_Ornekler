@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\bin\Debug\Kitap_Yonetim.exe.config
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\bin\Debug\Kitap_Yonetim.exe
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\bin\Debug\Kitap_Yonetim.pdb
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\obj\Debug\Kitap_Yonetim.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\obj\Debug\Kitap_Yonetim.exe
+C:\Users\Beşir Can\source\repos\Kitap_Yonetim\Kitap_Yonetim\obj\Debug\Kitap_Yonetim.pdb

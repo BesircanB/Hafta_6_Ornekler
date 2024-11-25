@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\bin\Debug\Trafik_Isik.exe.config
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\bin\Debug\Trafik_Isik.exe
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\bin\Debug\Trafik_Isik.pdb
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\obj\Debug\Trafik_Isik.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\obj\Debug\Trafik_Isik.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\obj\Debug\Trafik_Isik.exe
+C:\Users\Beşir Can\source\repos\Trafik_Isik\Trafik_Isik\obj\Debug\Trafik_Isik.pdb
